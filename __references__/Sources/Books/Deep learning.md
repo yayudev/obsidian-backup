@@ -5,7 +5,6 @@ Deep Learning with Python (2nd Edition)
 **Author**: [[Francois Chollet]]
 **Temas** : #programming #software #AI #deep-learning #machine-learning #python 
 
-
 ## Summary
 ---
 Tutorial y guia acerca de que es el deep learning y como emplearlo usando TensorFlow y Keras en python.

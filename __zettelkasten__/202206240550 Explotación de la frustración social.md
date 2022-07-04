@@ -7,7 +7,7 @@ El ur-facismo explota la frustración social, en especial de la clase media que 
 En una sociedad donde la clase media se empieza a volver una pequeña burguesia, el facismo es propenso a surgir.
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo #clases-sociales 
 - See also:

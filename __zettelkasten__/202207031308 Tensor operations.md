@@ -4,6 +4,7 @@
 - [[202207031315 Broadcasting]]
 - [[202207031323 Dot product (Tensors)]]
 - [[202207031357 Tensor Reshaping]]
+- [[202207031357 Tensor Reshaping]]
 
 ---
 - Source: [[Deep learning]]

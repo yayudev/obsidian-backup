@@ -1,18 +1,16 @@
 
-# Contra el Facismo
+# Contra el Fascismo
 ---
 **Alt titulo**: Il fascismo eterno
 **Año**: 1997
 **Author**: [[Umberto Echo]]
 **Temas** : #fascismo #filosofia #wwII 
 
-
-
 ## Summary
 ---
-Adaptacion de una conferencia donde Umberto Echo explica una serie de caracteristicas que definirian al Facismo eterno (ur-facismo).  
+Adaptación de una conferencia donde Umberto Echo explica una serie de características que definirían al Fascismo eterno (ur-fascismo).  
 
-Dichas caracteristicas son:
+Dichas características son:
 1. [[202206232149 Culto a la tradicion]]
 2. [[202206232149 Rechazo de la modernidad]]
 3. [[202206240530 Culto a la accion por la accion]]

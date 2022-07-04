@@ -8,7 +8,7 @@ Esto resulta en un esfuerzo paradojico, pues se busca la lucha para acabar con e
 
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo #xenofobia #nacionalismo
 - See also:

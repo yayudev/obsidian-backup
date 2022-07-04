@@ -6,7 +6,7 @@ En el ur-facismo, se crea la idea de que todos pueden ser heroes. Se engrandece 
 
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo #heroismo
 - See also:

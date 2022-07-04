@@ -8,7 +8,7 @@ Los textos educativos y de difusion se limitan a un lexico pobre y se hace uso d
 Se crean nuevos terminos para apoyar la causa.
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo #linguistica
 - See also:

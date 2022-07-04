@@ -10,7 +10,7 @@ El lider sabe que su poder se basa en la debilidad de la masa inferior. Se crea 
 
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo #elitismo 
 - See also:

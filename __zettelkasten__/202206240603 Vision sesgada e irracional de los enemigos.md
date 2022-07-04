@@ -13,7 +13,7 @@ Quotes
 - [[Umberto Echo - Los facismos estan condenados a perder sus guerras por que son de manera consustancial incapaces de valorar con objectividad la fuerza del enemigo]]
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo 
 - See also:

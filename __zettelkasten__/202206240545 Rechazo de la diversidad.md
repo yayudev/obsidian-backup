@@ -9,7 +9,7 @@ El ur-facismo busca el conceso y explota el miedo a lo distinto. Por la tanto, s
 El ur-facismo es fundamentalmente racista.
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo #racismo
 - See also:

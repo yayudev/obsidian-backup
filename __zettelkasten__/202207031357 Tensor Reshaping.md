@@ -17,6 +17,9 @@
 # Note that 3*2 = 6, so both can hold the same number of values
 ```
 
+- One of the most common usages is: 
+	- [[202207031419 Matrix Transposition]]
+
 ---
 - Source: [[Deep learning]]
 - Date: 2022-07-03

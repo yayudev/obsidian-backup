@@ -1,14 +1,12 @@
 # Clean code: A Handbook of Agile Software Craftsmanship
 ---
-
 **Año**: 2009
 **Author**: [[Robert C. Martin]]
 **Temas** : #programming #software #best-practices #coding #code 
 
-
 ## Summary
 ---
-Coleccion de mejores practicas y como escribir buen codigo de software.
+Colección de mejores practicas y como escribir buen código de software.
 
 
 ### Quotes

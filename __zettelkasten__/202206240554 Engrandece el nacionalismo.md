@@ -7,7 +7,7 @@ El ur-facismo repite que el privilegio mas grande es el de haber nacido en el mi
 Se crea una idea de complot, de que el enemigo externo intenta atacar desde dentro. Esto da paso a la xenofobia.
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo #xenofobia #nacionalismo
 - See also:

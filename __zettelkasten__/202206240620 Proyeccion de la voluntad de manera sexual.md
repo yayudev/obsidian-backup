@@ -8,7 +8,7 @@ Esto da origen al machismo pues se busca la dominacion elitista sobre un grupo s
 Tambien las armas son una representacion falica de poder impuesto sobre el otro, el juego de la guerra se deriva de una *envidia penis*.
 
 ---
-- Source:  [[Contra el facismo]]
+- Source:  [[Contra el fascismo]]
 - Date: 2022-06-24
 - Tags: #ur-facismo #fascismo
 - See also:

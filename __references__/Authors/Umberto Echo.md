@@ -12,7 +12,7 @@
 - #ur-facismo 
 
 ### Libros
-- [[Contra el facismo]]
+- [[Contra el fascismo]]
 
 
 ### Citas

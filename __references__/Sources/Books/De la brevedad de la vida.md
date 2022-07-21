@@ -42,28 +42,15 @@ Escritos de Seneca acerca de nuestra relación con el tiempo y como aprovecharlo
 - No deberíamos de reservar la época de virtud, calma y reflexión para los años de vejez pues ya ninguna cosa es de provecho pues no se tiene la salud ni las oportunidades para ello.
 - [[Seneca - Cuán tardía acción es comenzar la vida cuando se quiere acabar.]]
 
-#### Chapter 5
-#### Chapter 6
-#### Chapter 7
-
 #### Chapter 8
 - Cuando negociamos, muchas veces prestamos más atención a la negociación y el beneficio tangible por el cual se pide nuestro tiempo a cambio pero no nos damos cuenta de que que eso que se nos da palidece en comparación del valor del tiempo.
 - Conviene más guardar con diligencia aquello que no sabemos cuándo se vaya a acabar.
 - En el amor también se pide tiempo a cambio.
 
-#### Chapter 9
-#### Chapter 10
-#### Chapter 11
-
 #### Chapter 12
 - Accidentes e incapacidades puede cambiar la perspectiva  respecto al tiempo. 
 - El apartarse de otros y dedicarse al ocio no es una vida de descanso, pues se vuelve molesto para sí mismo y se vuelve una ocupación ociosa.
 
-#### Chapter 13
-#### Chapter 14
-#### Chapter 15
-#### Chapter 16
-#### Chapter 17
 #### Chapter 18
 - [[Seneca - miserable la vida de aquellos que con gran trabajo adquieren lo que con mayor han de poseer.]]
 - [[Seneca - Consiguen con su sudor lo que desean, y poseen con ansias lo que adquirieron con trabajo; y con esto no cuidan del tiempo, que pasado una vez,  jamás ha de volver]]
@@ -71,12 +58,13 @@ Escritos de Seneca acerca de nuestra relación con el tiempo y como aprovecharlo
 
 #### Chapter 19
 - Una vez que te retires de tu trabajo y te dediques a reflexionar, te veras arrastrado a obligaciones superiores, ocupaciones mas importantes de las que hasta ese entonces hayas tenido.
-- Hay muchas enfermedades que se curan ignorándolas y otras que al concerseles se vuelven la causa de la muerte.
+- Hay muchas enfermedades que se curan ignorándolas y otras que al conocerles se vuelven la causa de la muerte.
 
 #### Chapter 20
-#### Chapter 21
-#### Chapter 22
+- Se es miserable si se trabaja por otros. De por sí, estar ocupado es miseria, al actuar por otros o producir ganancias que uno no verá, no hay manera de encontrar dicha en tal situación. 
 
+#### Chapter 21
+- Es un afán el intentar ser productivo o seguir persiguiendo producir un valor para otros del cual no se verá beneficio entrada la vejez. Pues el cuerpo no más da y no tienen sentido perseguir algo que no nos dará tranquilidad.
 
 
 ### References

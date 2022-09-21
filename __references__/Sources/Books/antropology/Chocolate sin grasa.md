@@ -33,8 +33,11 @@ Colección de escritos de Slavoj Zizek acerca de las relaciones geopolíticas, e
 - El movimiento antifascista actual no hará nada para deshacerse del populismo de derecha... Es solo una postura motivada por el pánico
 - El problema con la revolución venezolana es que no fue lo suficientemente lejos
 
+
 ### Quotes
 ---
+- [[Slavoj Zizek - La utopía actual es creer que el sistema global existente puede reproducirse indefinidamente]]
+
 
 ### References
 ---

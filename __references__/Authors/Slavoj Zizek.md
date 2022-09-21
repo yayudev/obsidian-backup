@@ -17,3 +17,4 @@
 
 
 ### Citas
+- [[Slavoj Zizek - La utopía actual es creer que el sistema global existente puede reproducirse indefinidamente]]

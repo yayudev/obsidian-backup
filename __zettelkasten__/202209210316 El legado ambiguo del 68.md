@@ -18,12 +18,30 @@ Pero el capitalismo sigue teniendo contradicciones que indican que su reproducci
 - La catastrofe ecólogica
 - Lo inapropiado de los derechos humanos para la propiedad intelectual
 - Las implicaciones socio-éticas de los nuevos avances tecnológicos y científicos (como IA, biogenética)
-- Nuevas formas de *apartheid*, que adoptan la forma de nuevos muros y barrios pobres
-- 
+- Nuevas formas de *[[apartheid]]*, que adoptan la forma de nuevos muros y barrios pobres
 
+Estos antagonismos se presentan pues responden a la privatización y explotación de dominios universalmente comunes (el medio ambiente, la dignidad humana, el legado genético, la libertad de relación e igualdad de oportunidades). Por lo tanto, tal actuar desmedido del capitalismo que atenta contra estos dominios comunes es un acto de violencia el cual deberá ser respondido y resistido de manera violenta, si fuese necesario.
+
+La lógica capitalista no es ignorante de los grupos empobrecidos y con falta de oportunidades, los incorpora como una parte fundamental y necesaria, son un excedente necesario pues son un mercado mas, a la vez que sirven para abaratar la mano de obra y servir de incentivo psicológico para presionar hacia la productividad. Es entonces que espacios como los suburbios o las favelas no son un accidente, son un *feature* del sistema.
+
+Este antagonismo entre los grupos Incluidos y los Excluidos es lo que genera la necesidad de resucitar el concepto de comunismo, crear una sociedad global o común, como respuesta para apelar por esos intereses. Hay una necesidad de atender a las necesidades del proletariado.
+
+Es por eso que si los objetivos de las políticas emancipadores del siglo XIX fue romper el monopolio de la burguesía liberal, y los del siglo XX fue politizar y despertar a la clase obrera, es entonces que el objetivo del siglo XXI debe ser politizar, organizar y educar a las masas "des-estructuradas" de los barrios pobres.
+
+Ignorar el problema de los Excluidos es minimizar los problemas del capitalismo, pues una lucha sin conciencia de clase permite simplificar los antagonismos del capital a:
+- Ecología siendo un problema que ignora el desarrollo sustentable.
+- Propiedad intelectual siendo solo un problema legal de intereses.
+- Biogenética siendo un problema desapegado de la ética.
+
+Esto permite que corporaciones como Whole Foods y Starbucks que a pesar de oponerse a sistemas sindicales y mejores condiciones de trabajo, sean vistas de manera positiva porque venden un producto alineado con la visión progresista. Se evalúa solo el producto terminado sin importar el proceso que lo produjo.
+
+"La utopía actual es creer que el sistema global existente puede reproducirse indefinidamente"
+
+Estas amenazas del capitalismos nos convierten a todos en proletariados en potencia y la única forma de evitarlo es actuar de manera preventiva.
 
 ---
 - Source: [[Chocolate sin grasa]]
 - Date: 2022-09-21
-- Tags: {{tags}}
+- Tags: #capitalismo #comunismo #marxismo #consumismo #proletariado #etica #actualidad #pobreza #clases-sociales 
 - See also:
+	- [[Apartheid]]

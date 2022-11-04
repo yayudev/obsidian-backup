@@ -24,6 +24,13 @@ Introduction to #Hegel's philosophy
 - For #Hegel, orthodox religion was a barrier in the goal of restoring man's harmony.
 
 ### 2 - History with a purpose
+- #Hegel  took history seriously.
+- #Hegel accepted #Schiller's suggestion that the very foundations of human condition could change from one historical era to another.
+- For #Hegel, the philosophy of history is nothing but the thoughtful consideration of it. History should seek to present its raw material as part of a rational process of development, in order to reveal the meaning and significance of history itself.
+- For most moderns though, history had no ultimate purpose, it was just a series of human purposes who conformed history itself.
+- #Hegel in its *Philosophy of History*, states that ***"The history of the world is none other than the progress of the consciousness of freedom."***
+- ##### Philosophy of history
+	- For #Hegel, The Oriental World 
 
 ### 3 - Freedom and community
 

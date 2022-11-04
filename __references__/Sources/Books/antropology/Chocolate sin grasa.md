@@ -14,8 +14,8 @@ Colección de escritos de Slavoj Zizek acerca de las relaciones geopolíticas, e
 - [[202209200357 Chocolate sin grasa y prohibido fumar - por qué nuestra culpa por consumir lo consume todo]]
 - La audacia de la retórica
 - [[202209210316 El legado ambiguo del 68]]
-- En vos más que a vos mismo
-- ¿Cuánta democracia es demasiada?
+- [[202209220314 En vos más que a vos mismo]]
+- [[202209220344 ¿Cuánta democracia es demasiada?]]
 - El desierto de lo Real. ¿Es el fin de la fantasía?
 - El problema del fascismo de la democracia
 - La fidelidad de la izquierda a la Castro-ación

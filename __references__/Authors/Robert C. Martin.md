@@ -1,8 +1,6 @@
-# Robert Cecil Martin
-
 **Origen**: USA
 **Alias**: Uncle Bob
-**Descripcion**: Software engineer, instructor, best-selling author.
+**Descripción**: Software engineer, instructor, best-selling author.
 **Vida**: [1952 - actualidad]
 
 

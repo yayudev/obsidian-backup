@@ -1,5 +1,3 @@
-# Slavoj Zizek
-
 **Origen**: #Eslovenia
 **Descripción**: #Filosofo #Escritor #Psicoanalista 
 **Vida**: [1949 - current] 

@@ -2,7 +2,7 @@ De la brevedad de la vida
 ---
 
 **Año**: 55
-**Author**: [[De la brevedad de la vida]]
+**Author**: [[Séneca]]
 **Temas** : #estoicismo #tiempo #felicidad 
 
 ## Summary

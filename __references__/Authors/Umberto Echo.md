@@ -1,7 +1,5 @@
-# Umberto Echo
-
 **Origen**: #Italiano
-**Descripcion**: #Sociologista #Filosofo
+**Descripción**: #Sociologista #Filosofo
 **Vida**: [1932-2016] 
 **Epoca**: #1900s #2000s #SigloXX #SigloXXI
 

@@ -1,6 +1,6 @@
 # ¿Quién puede controlar el orden capitalista mundial ahora que ya no existen las superpotencias?
 ----
-En este escrito, Slavoj habla acerca de cómo existen reglas implícitas a nivel de sociedad que regulan y determinan nuestro día a día y las relaciones intra e inter nacionales. 
+En este escrito, Slavoj habla acerca de cómo existen reglas implícitas a nivel de sociedad que regulan y determinan nuestro día a día y las relaciones intra e internacionales. 
 
 Un ejemplo de esto es durante la época de la unión soviética, abundaba el uso común de sobornos y recurrir al crimen organizado como una manera de hacer valor acuerdos, para cobrar prestamos, agilizar tramites, etc; lo cual era socialmente entendido e implícito. El problema vino cuando los limites de estas reglas implícitas se volvieron difusos y lo sociedad no sabía dónde era correcto aplicar que reglas. Esto fue factor en la decadencia de la union soviética, y que Putin vino a arreglar poniendo orden y esclareciendo dichas reglas implícitas.
 

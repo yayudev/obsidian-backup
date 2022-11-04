@@ -1,7 +1,5 @@
-# Francois Chollet
-
 **Origen**: French
-**Descripcion**: Software engineer, AI researcher at Google, creator of Keras library.
+**Descripción**: Software engineer, AI researcher at Google, creator of Keras library.
 **Vida**: [1952 - actualidad]
 
 

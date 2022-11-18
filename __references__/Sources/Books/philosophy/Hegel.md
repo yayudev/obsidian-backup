@@ -30,7 +30,7 @@ Introduction to #Hegel's philosophy
 - For most moderns though, history had no ultimate purpose, it was just a series of human purposes who conformed history itself.
 - #Hegel in its *Philosophy of History*, states that ***"The history of the world is none other than the progress of the consciousness of freedom."***
 - ##### Philosophy of history
-	- For #Hegel, The Oriental World 
+	- For #Hegel, The Oriental Worldr 
 
 ### 3 - Freedom and community
 

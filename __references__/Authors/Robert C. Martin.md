@@ -12,6 +12,8 @@
 
 ### Libros
 - [[Clean code]]
+- [[Clean Architecture]]
 
 
 ### Citas
+- [[Robert C. Martin - The goal of software architecture is to minimize the human resources required to build and mantain the required system]]

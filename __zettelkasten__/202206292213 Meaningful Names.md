@@ -23,14 +23,12 @@ Types should already be identified by the compiler/IDE so no need to specificy i
 Variables should not perform actions so a noun should be enough to describe it. 
 - Bad:  `fetchData = 1`  
 - Good: `dataFetched = 2`
-
 Methods always perform something so they should use verbs.
 - Bad: `something(), parser(), data()`
 - Good: `doSomething(), parseInfo(), fetchData()`
 
-
 #### One word per concept 
-Use the same word when refering to the same concept or action.
+Use the same word when referring to the same concept or action.
 - Bad: `fetchAppointments, getUsers, pullClients`
 - Good: `fetchAppointments, fetchUsers, fetchClients`
 

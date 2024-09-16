@@ -17,7 +17,7 @@ Make things easier to remember.
 These are context aware, new developers may lack that context so they may get confused.
 
 #### Avoid type prefixes
-Types should already be identified by the compiler/ide so no need to specificy it 
+Types should already be identified by the compiler/IDE so no need to specificy it 
 
 #### Use nouns for variables, verbs for methods
 Variables should not perform actions so a noun should be enough to describe it. 

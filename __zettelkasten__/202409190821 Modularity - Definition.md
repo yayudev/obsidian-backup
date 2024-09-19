@@ -1,0 +1,12 @@
+# Modularity 
+----
+- Modularity is the logical grouping of relate group in a unit, like a class or a function.
+- How developers pack their code has implication in architecture of the system.
+- Separation can be both logical or physical. (different domain vs different files or classes, for example).
+- Having less modularity creates a really cohesive system but it's difficult  to extend it because is hard to break down into parts when everything is tightly coupled.
+-
+---
+- Source: [[Fundamentals of Software Architecture]]
+- Date: 2024-09-19
+- Tags: #modularity #programming #software-development #software-architecture 
+- See also:

@@ -28,6 +28,8 @@ Comprehensive overview of software architecture
 	3. [[202409180038 Architectural Thinking - Analyzing Trade-Offs]]
 	4. [[202409180053 Architectural Thinking - Balancing architecture with hands-on coding]]
 3. Modularity
-
+		[[202409190821 Modularity - Definition]]
+		[[202409190841 Modularity - Measuring Modularity]]
+		
 ### References
 ---

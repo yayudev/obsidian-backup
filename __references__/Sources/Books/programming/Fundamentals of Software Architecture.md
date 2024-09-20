@@ -30,6 +30,7 @@ Comprehensive overview of software architecture
 3. Modularity
 		[[202409190821 Modularity - Definition]]
 		[[202409190841 Modularity - Measuring Modularity]]
-		
+		[[202409191948 Abstractness & Instability]]
+		[[202409191955 Connascence]]	
 ### References
 ---

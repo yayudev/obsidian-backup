@@ -1,9 +1,9 @@
+---
+tags: 
+source: 
+Date:
+---
+
 # {{title}}
 ----
 {{content}}
-
----
-- Source: {{source}}
-- Date: {{date}}
-- Tags: {{tags}}
-- See also:

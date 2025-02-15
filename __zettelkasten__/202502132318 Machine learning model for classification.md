@@ -17,19 +17,19 @@ Date: 2025-02-13
 #### Outputs
 - The final output is multi-class, meaning we have a set of possible output values.
 - To convert from a quantitative value to a classification ($o$), we generate a *score* value ($y$) and a threshold ($\delta$).
-- For example:
+- For example: 
 	- Given that $y = calculated \space value$  and $\delta = score$ and $o \in [0, 1, 2]$: $$
 \left
 \{\begin{array}{l} 
 	y \gt \delta & 0 \\
-	y \ge -\delta \ and \ y \le \delta & 1\\
+	-\delta \ \le \ y \le \delta & 1\\
 	y \lt -\delta & 2 \\
 \end{array} 
 \right.
 $$
 #### Model estimation
 - We want to generate a function that transforms the input vector into an ouput ( $y(\vec{x})$ ).
-- We do know that exact perfect function, so instead we try to estimate it.
+- We don't know that exact perfect function, so instead we try to estimate it.
 - The steps to create that estimation are:
 	1. *Model architecture selection* - Design a parametrized function that we expect would be a good proxy to the unknown ideal function.
 	2. *Training* - Estimate the best parameters that would match the input to the outputs using the designed function.
@@ -61,7 +61,7 @@ $$
 E^2 = \sum_{i=0}^N{(y_{predicted}^{(i)} - y_{expected}^{(i)})^2}
 $$ On each iteration we want to reducer this total error.
 - For the iterative approach we use this approach:
-	**while ( $E^2 = \sum_{i=0}^N{((\vec{w_i}^T\vec{x_i} + b) - y_{expected}^{(i)})^2}$ ) do**
+	**while ( $E^2 = \sum_{i=0}^N{((\vec{w}^T\vec{x}^{(i)} + b) - y_{expected}^{(i)})^2}$ ) do**
 		**for ( $\forall_i \in [0, N]$ ) do**
 			Adjust $\vec{w}$ so that $E^2$ is reduced.	
 		**end for**

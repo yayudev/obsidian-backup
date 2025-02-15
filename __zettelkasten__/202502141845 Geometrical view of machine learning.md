@@ -19,12 +19,12 @@ Date: 2025-02-14
 - This output space is usually way smaller than the input space.
 ##### Machine learning
 - A model maps a feature space point to an output space point.
-- For classification jobs, we separate points into clusters in the output space which we use to determinate categories.
+- For classification jobs, we separate points into clusters in the output space which we use to determine categories.
 
 #### 2D Space
-- A good way to use the output score is to meassure the distance from the line $x_0 + x_1 = 1$
+- A good way to use the output score is to measure the distance from the line $x_0 + x_1 = 1$
 ![[CH01_F02_Chaudhury.png]]
-- Here the distance can be determined as $$y = \frac{(a+b-1)}{\sqrt{2}}$$ Or in regular ML terms: $$y_(x_0, x_1) = \frac{1}{\sqrt{2}}x_0 + \frac{1}{\sqrt{2}}x_1 - \frac{1}{\sqrt{2}} $$
+- Here the distance can be determined as $$y = \frac{(x_0+x_1-1)}{\sqrt{2}}$$ Or in regular ML terms: $$y_(x_0, x_1) = \frac{1}{\sqrt{2}}x_0 + \frac{1}{\sqrt{2}}x_1 - \frac{1}{\sqrt{2}} $$
 - This distance allows us to set thresholds based on the distance to the middle line. (like: close to -1, close to 0, close to 1)
 
 #### Regression vs Classification
@@ -36,7 +36,7 @@ Date: 2025-02-14
 #### Linear vs non-linear
 - While some problems can be classified using a single line, most real-world problems aren't like that.
 - Non-linear functions usually perform better.
-- A very popular way to convert linear inputs into non-linear inputs is to use a #sigmoid function.
+- A very popular way to make inputs into non-linear values is to use a #sigmoid function.
 - Is called sigmoid because it resembles the letter S.
 - It usually is represented as the letter $\sigma$ .
 - Its output usually generates a value between 0 and 1 (never 0, or 1).

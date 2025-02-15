@@ -29,7 +29,7 @@ Date: 2025-02-13
 - Example:
 	- When a cat sees an object.
 		- If it's sharp(`s`) or hard(`h`) enough, should avoid it.
-		- $$ y(s, h) = s\times{w_0} + s\times{w_1} + bias $$
+		- $$ y(s, h) = s\times{w_0} + h\times{w_1} + bias $$
 - Weights are not know at first, we need to estimate it. This is called #Model-Training.
 - The process of training follows these steps:
 	1. Design a model with unknown parameters. ( #model-architecture)

@@ -25,7 +25,8 @@ Guide on mathematical paradigms around machine learning, laying out both mathema
 	2. [[202502132318 Machine learning model for classification]]
 	3. [[202502141845 Geometrical view of machine learning]]
 2. Vectors, matrices, and tensors in machine learning
-	1. [[]]
+	1. [[202502142107 Vectors in machine learning]]
+	2. [[202207011645 Matrices (Tensors)]]
 
 ### References
 ---

@@ -27,7 +27,8 @@ Guide on mathematical paradigms around machine learning, laying out both mathema
 2. Vectors, matrices, and tensors in machine learning
 	1. [[202502142107 Vectors in machine learning]]
 	2. [[202207011645 Matrices (Tensors)]]
-
+	3. [[202502160214 Basic vector and matrix operations in machine learning]]
 ### References
 ---
 
+ 
